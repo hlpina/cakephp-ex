@@ -1,4 +1,4 @@
-<!doctype html>
+o<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on OpenShift</h1>
+            <h1>Welcome to Humberto's CakePHP application on OpenShift</h1>
           </hgroup>
 
 
